@@ -21,8 +21,6 @@
         <stop offset="100%" stop-color="#38BDF8"/>
       </linearGradient>
     </defs>
-
-    <!-- Glass card -->
     <g transform="translate(20,20)">
       <!-- glow -->
       <rect x="0" y="0" rx="28" ry="28" width="960" height="100"
@@ -31,15 +29,11 @@
       <!-- subtle inner highlight -->
       <rect x="0.5" y="0.5" rx="27.5" ry="27.5" width="959" height="99"
             fill="url(#glass)" opacity="0.65"/>
-
-      <!-- Text: name -->
       <text x="40" y="60"
             font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,Inter,system-ui,sans-serif"
             font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">
         Hamid Alami
       </text>
-
-      <!-- Pill badge -->
       <g transform="translate(40,72)">
         <rect x="0" y="-26" rx="18" ry="18" width="270" height="36"
               fill="rgba(255,255,255,0.12)" stroke="url(#stroke)" stroke-width="0.8"/>
