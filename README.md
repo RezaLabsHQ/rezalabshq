@@ -61,11 +61,11 @@
 
 <h2 align="center">💼 My Dev Environment</h2>
 
-![Cursor](https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg)
-![macOS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white) 
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center">
   <sub><i>Where creativity meets productivity. This is where the magic happens ✨</i></sub>
