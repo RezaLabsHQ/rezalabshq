@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hamid-reza-alami22/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/hamid4lami" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
   <a href="https://instagram.com/hamid4lami" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
@@ -15,16 +15,17 @@
 ---
 
 <h1 align="center">Hey 👋, I'm Hamid</h1>
-<h3 align="center">💻 Full-Stack Dev in Progress • 🎓 IT Student • 🌏 Based in Adelaide</h3>
+<h3 align="center">💻 Software Development in Progress • 🎓 IT Student • 🌏 Based in Adelaide</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying Information Technology & Software Development at UniSA  (Adelaide University)
+- 🎓 Studying Information Technology & Software Development at UniSA (Adelaide University)
 - 💡 Exploring modern tools, full-stack frameworks, and clean UIs  
 - 🛠️ Always building something cool — sometimes breaking it too  
 - 🎮 Outside of code: music, games, and tech setups
+- 📰 For daily update checkout my social accounts.
 
 ---
 
@@ -32,7 +33,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="40" alt="Java"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
