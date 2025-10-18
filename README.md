@@ -1,17 +1,14 @@
 [![Hamid Alami](https://svg-banners.vercel.app/api?type=glitch&text1=Hamid%20Alami&width=1000&height=200)](https://github.com/alahy011)
 
 <div align="center">
-  <!-- LinkedIn Link -->
-  <a href="https://www.linkedin.com/in/hamid-reza-alami22/" target="_blank">
+  <a href="https://www.linkedin.com/in/hamidalami27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <!-- Instagram Link -->
   <a href="https://instagram.com/hamid4lami" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <!-- Twitter Link -->
   <a href="https://x.com/hamid4lami" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000000.svg?logo=twitter&logoColor=white" />
   </a>
 </div>
 
