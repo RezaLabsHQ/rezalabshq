@@ -1,4 +1,5 @@
-[![Hamid Alami — Fullstack Developer](https://img.shields.io/badge/Hamid%20Alami-%5B%20Fullstack%20Developer%20%5D-0A0F1C?style=for-the-badge&labelColor=1F2937&color=38BDF8&logoColor=white)](https://github.com/alahy011)
+[![Hamid Alami](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/alahy011)
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hamidalami27/" target="_blank">
