@@ -1,14 +1,14 @@
-[![Hamid Alami](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/alahy011)
+[![Hamid Alami](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/rezalabshq)
 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hamidalami27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hamid4lami" target="_blank">
+  <a href="https://instagram.com/rezalabshq" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/hamid4lami" target="_blank">
+  <a href="https://x.com/rezalabs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000.svg?logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -16,13 +16,14 @@
 ---
 
 <h1 align="center">Hey 👋, I'm Hamid</h1>
+<h2 align="center">My develoment name goes by Reza Lab HQ</h2>
 <h3 align="center">💻 Software Development in Progress • 🎓 IT Student • 🌏 Based in Adelaide</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying Information Technology & Software Development at UniSA (Adelaide University)
+- 🎓 Studying Information Technology & Software Development at Adelaide University
 - 💡 Exploring modern tools, full-stack frameworks, and clean UIs  
 - 🛠️ Always building something cool — sometimes breaking it too  
 - 🎮 Outside of code: music, games, and tech setups
@@ -74,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alahy011&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alahy011&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rezalabshq&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezalabshq&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
