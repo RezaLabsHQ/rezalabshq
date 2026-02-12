@@ -1,4 +1,4 @@
-[![Hamid Alami](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/rezalabshq)
+[![Reza Labs HQ](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/rezalabshq)
 
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align="center">Hey 👋, I'm Hamid</h1>
+<h1 align="center">Hey 👋, I'm Hamid Alami</h1>
 <h2 align="center">My develoment name goes by Reza Lab HQ</h2>
 <h3 align="center">💻 Software Development in Progress • 🎓 IT Student • 🌏 Based in Adelaide</h3>
 
