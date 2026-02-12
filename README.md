@@ -1,4 +1,4 @@
-[![Reza Labs HQ](https://svg-banners.vercel.app/api?type=luminance&text1=Hamid%20Alami&width=1000&height=220)](https://github.com/rezalabshq)
+[![Reza Labs HQ](https://svg-banners.vercel.app/api?type=luminance&text1=Reza%20LabsHQ&width=1000&height=220)](https://github.com/rezalabshq)
 
 
 <div align="center">
