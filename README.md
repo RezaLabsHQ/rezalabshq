@@ -1,82 +1,323 @@
-[![Reza Labs HQ](https://svg-banners.vercel.app/api?type=luminance&text1=Reza%20LabsHQ&width=1000&height=220)](https://github.com/rezalabshq)
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     HAMID ALAMI — README.md                      ║ -->
+<!-- ║  Last updated: April 2026 by Hamid Alami                         ║ -->
+<!-- ║  To update: Search for UPDATE tags throughout this file          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: HERO BANNER                                             │ -->
+<!-- │ UPDATE: Replace the banner text or style via the URL params.     │ -->
+<!-- │ Options at: https://github.com/AkashRajpurohit/svg-banners       │ -->
+<!-- │ You can also swap this for a custom SVG or animated banner.      │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamidalami27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rezalabshq" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/rezalabs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000.svg?logo=twitter&logoColor=white" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hamid+Alami+%E2%80%94+Reza+Labs+HQ)](https://github.com/rezalabshq)
+
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=header" width="100%"/>
+
 </div>
 
----
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: SOCIAL LINKS                                           │ -->
+<!-- │ UPDATE: Add/remove social badges here.                          │ -->
+<!-- │ Badge generator: https://shields.io                             │ -->
+<!-- │ Style options: flat, flat-square, for-the-badge, plastic, social │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-<h1 align="center">Hey 👋, I'm Hamid Alami</h1>
-<h2 align="center">My develoment name goes by Reza Lab HQ</h2>
-<h3 align="center">💻 Software Development in Progress • 🎓 IT Student • 🌏 Based in Adelaide</h3>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezalabshq/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezalabshq)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rezalabs)
 
-### 👨‍💻 About Me
+<!-- UPDATE: Add more socials below this line -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_URL) -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_URL) -->
 
-- 🎓 Studying Information Technology & Software Development at Adelaide University
-- 💡 Exploring modern tools, full-stack frameworks, and clean UIs  
-- 🛠️ Always building something cool — sometimes breaking it too  
-- 🎮 Outside of code: music, games, and tech setups
-- 📰 For daily update checkout my social accounts.
+</div>
 
----
+<br/>
 
-### 🧠 Language and Tech Stacks
-<!-- Using Markdown Syntax -->
-![C](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: INTRO / ABOUT ME                                       │ -->
+<!-- │ UPDATE: Edit the tagline, bio points, and current focus below.   │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MangoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
 
+```
+ ██████╗ ███████╗███████╗ █████╗     ██╗      █████╗ ██████╗ ███████╗
+ ██╔══██╗██╔════╝╚══███╔╝██╔══██╗    ██║     ██╔══██╗██╔══██╗██╔════╝
+ ██████╔╝█████╗    ███╔╝ ███████║    ██║     ███████║██████╔╝███████╗
+ ██╔══██╗██╔══╝   ███╔╝  ██╔══██║    ██║     ██╔══██║██╔══██╗╚════██║
+ ██║  ██║███████╗███████╗██║  ██║    ███████╗██║  ██║██████╔╝███████║
+ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+```
 
----
+**`Software Developer`**
 
-### ⚙️ Frameworks
+</div>
 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+### `> whoami`
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+```yaml
+name: Hamid Alami
+alias: Reza Labs HQ
+location: Adelaide, AU
+education: IT & Software Dev @ Adelaide University
+role: Creative Software Developer
+```
 
----
+</td>
+<td width="50%" valign="top">
 
-### ⚙️ Tools & Techs
+### `> cat interests.txt`
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+```
+├── 🏗️  Building products from 0 → 1
+├── 🎨  Design systems & clean UIs
+├── ⚡  Full-stack frameworks
+├── 🎮  Gaming & music
+└── 🔧  Always tinkering with setups
+```
 
----
+</td>
+</tr>
+</table>
 
-<h2 align="center">💼 My Dev Environment</h2>
+<br/>
 
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white) 
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: CURRENT FOCUS                                          │ -->
+<!-- │ UPDATE: Change these whenever your active projects shift.        │ -->
+<!-- │ Keep it to 2–3 items max to stay clean.                         │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
 
-<p align="center">
-  <sub><i>Where creativity meets productivity. This is where the magic happens ✨</i></sub>
-</p>
+<div align="center">
 
----
+### 🔭 Currently Working On
 
-### 📊 GitHub Stats
+<!-- UPDATE: Replace project names, descriptions, and links below -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezalabshq&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezalabshq&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+| Project                       | Description                                                     | Stack                           |
+| ----------------------------- | --------------------------------------------------------------- | ------------------------------- |
+| **Campfire** 🏕️               | Focus & task app with a nature aesthetic                        | React Native · Expo · Supabase  |
+| **CodeForge** ⚒️              | Open-source AI-powered programming education                    | Next.js · Supabase · Claude API |
+| **UI Commpoenent** ⚒️         | Open-source API and UI compoenent for web and mobile apps       | Will be shared later            |
+| **File Transfer protocol** ⚒️ | Open-source app to transfer file between linux and other divces | Will be shared later            |
 
----
+</div>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: TECH STACK                                              │ -->
+<!-- │ UPDATE: Add/remove badges as you learn new tech.                 │ -->
+<!-- │ Organised into: Languages → Frameworks → Databases → Cloud       │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+## ⚡ Tech Stack
+
+</div>
+
+<details open>
+<summary><b>🔤 Languages</b></summary>
+<br/>
+
+<!-- UPDATE: Add new language badges here -->
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧩 Frameworks & Libraries</b></summary>
+<br/>
+
+<!-- UPDATE: Add new framework badges here -->
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br/>
+
+<!-- UPDATE: Add new database/cloud badges here -->
+
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: TOOLS & DESIGN                                          │ -->
+<!-- │ UPDATE: Add new tools as you adopt them.                         │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+## 🛠️ Tools & Design
+
+</div>
+
+<details>
+<summary><b>🎨 Design & Creative</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 Dev Tools & Workflow</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: DEV ENVIRONMENT                                         │ -->
+<!-- │ UPDATE: If needed change them accordingly                        │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+## 💻 Dev Environment
+
+![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: GITHUB STATS                                            │ -->
+<!-- │ UPDATE: Change theme via &theme= parameter.                      │ -->
+<!-- │ Themes: github_dark, radical, tokyonight, gruvbox, dracula, etc  │ -->
+<!-- │ Full list: https://github.com/anuraghazra/github-readme-stats    │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=rezalabshq&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezalabshq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+
+<br/><br/>
+
+<!-- UPDATE: Streak stats — change theme to match if you restyle -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rezalabshq&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+
+</div>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: ACTIVITY GRAPH                                          │ -->
+<!-- │ UPDATE: Change theme or remove if you prefer minimal.            │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezalabshq&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: PROFILE VIEWS / VISITOR COUNTER                         │ -->
+<!-- │ UPDATE: This auto-increments. No changes needed.                 │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rezalabshq&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
+<!-- │ SECTION: FOOTER                                                  │ -->
+<!-- │ UPDATE: Change the quote or remove entirely.                     │ -->
+<!-- └──────────────────────────────────────────────────────────────────┘ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%"/>
+
+<sub>Built with purpose. Designed with care.</sub>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║ QUICK REFERENCE — HOW TO UPDATE THIS README                      ║ -->
+<!-- ║                                                                  ║ -->
+<!-- ║  1. SEARCH for "UPDATE:" to find all editable sections           ║ -->
+<!-- ║  2. BADGES: https://shields.io or markdown-badges repo           ║ -->
+<!-- ║  3. STATS THEMES: github_dark, radical, tokyonight, dracula      ║ -->
+<!-- ║  4. BANNER: capsule-render or svg-banners for new headers        ║ -->
+<!-- ║  5. ICONS: https://simpleicons.org for logo= values              ║ -->
+<!-- ║  6. NEW SECTIONS: Copy a section block, paste, and edit          ║ -->
+<!-- ║  7. PROJECTS TABLE: Update the "Currently Working On" table      ║ -->
+<!-- ║     whenever you start/ship a new project                        ║ -->
+<!-- ║                                                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
