@@ -74,7 +74,7 @@ name: Hamid Alami
 alias: Reza Labs HQ
 location: Adelaide, AU
 education: IT & Software Dev @ Adelaide University
-role: Studnet & Self CEO
+role: Student & Self CEO
 ```
 
 </td>
