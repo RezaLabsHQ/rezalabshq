@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     HAMID ALAMI — README.md                      ║ -->
-<!-- ║  Last updated: April 2026 by Hamid Alami                         ║ -->
+<!-- ║  Last updated: August 2026 by Hamid Alami                         ║ -->
 <!-- ║  To update: Search for UPDATE tags throughout this file          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -83,11 +83,12 @@ role: Student & Self CEO
 ### `> cat interests.txt`
 
 ```
-├── 🏗️  Building products from 0 → 1
-├── 🎨  Design systems & clean UIs
-├── ⚡  Full-stack frameworks
-├── 🎮  Gaming & music
-└── 🔧  Always tinkering with setups
+├── >>  Building products from 0 → 1
+├── >>  Design systems & clean UIs
+├── >>  Full-stack frameworks
+├── >>  Gaming & music
+├──  >>  Always tinkering with setups
+└── >>  Contributing in open source and linux community
 ```
 
 </td>
@@ -108,12 +109,13 @@ role: Student & Self CEO
 
 <!-- UPDATE: Replace project names, descriptions, and links below -->
 
-| Project                       | Description                                                     | Stack                           |
-| ----------------------------- | --------------------------------------------------------------- | ------------------------------- |
-| **Campfire** 🏕️               | Focus & task app with a nature aesthetic                        | React Native · Expo · Supabase  |
-| **CodeForge** ⚒️              | Open-source AI-powered programming education                    | Next.js · Supabase · Claude API |
-| **UI Commpoenent** ⚒️         | Open-source API and UI compoenent for web and mobile apps       | Will be shared later            |
-| **File Transfer protocol** ⚒️ | Open-source app to transfer file between linux and other divces | Will be shared later            |
+| Project                    | Description                                                     | Stack                            |
+| -------------------------- | --------------------------------------------------------------- | -------------------------------- |
+| **DistroForge**            | Open-source TUI application for forging fresh distro            | Currently working on version 2.0 |
+| **Campfire**               | Focus & task app with a nature aesthetic                        | React Native · Expo · Supabase   |
+| **CodeForge**              | Open-source AI-powered programming education                    | Next.js · Supabase · Claude API  |
+| **UI Commpoenent**         | Open-source API and UI compoenent for web and mobile apps       | Will be shared later             |
+| **File Transfer protocol** | Open-source app to transfer file between linux and other divces | Will be shared later             |
 
 </div>
 
@@ -221,7 +223,6 @@ role: Student & Self CEO
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
@@ -240,7 +241,6 @@ role: Student & Self CEO
 
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
