@@ -29,9 +29,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezalabshq/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezalabshq)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rezalabs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidalami07/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamidcodes_/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamidcodes_)
 
 <!-- UPDATE: Add more socials below this line -->
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_URL) -->
@@ -87,7 +87,7 @@ role: Student & Self CEO
 ├── >>  Design systems & clean UIs
 ├── >>  Full-stack frameworks
 ├── >>  Gaming & music
-├──  >>  Always tinkering with setups
+├── >>  Always tinkering with setups
 └── >>  Contributing in open source and linux community
 ```
 
