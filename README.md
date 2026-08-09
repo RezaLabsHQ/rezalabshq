@@ -1,51 +1,31 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     HAMID ALAMI — README.md                      ║ -->
-<!-- ║  Last updated: August 2026 by Hamid Alami                         ║ -->
-<!-- ║  To update: Search for UPDATE tags throughout this file          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- Hamid Alami - Readme.md
+Last Update: 09-08-2026 -->
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: HERO BANNER                                             │ -->
-<!-- │ UPDATE: Replace the banner text or style via the URL params.     │ -->
-<!-- │ Options at: https://github.com/AkashRajpurohit/svg-banners       │ -->
-<!-- │ You can also swap this for a custom SVG or animated banner.      │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
+<!-- To replace text or style through URL params.
+Options at: https://github.com/AkashRajpurohit/svg-banners -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hamid+Alami+%E2%80%94+Reza+Labs+HQ)](https://github.com/rezalabshq)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hamid+Alami+%E2%80%94+Reza+Labs+HQ)](https://github.com/rezalabshq)
 
 <!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=header" width="100%"/>
 
 </div>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: SOCIAL LINKS                                           │ -->
-<!-- │ UPDATE: Add/remove social badges here.                          │ -->
-<!-- │ Badge generator: https://shields.io                             │ -->
-<!-- │ Style options: flat, flat-square, for-the-badge, plastic, social │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Social media connections -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidalami07/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamidcodes_/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hamidcodes_)
-
-<!-- UPDATE: Add more socials below this line -->
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_URL) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_URL) -->
+[![GitLab](https://img.shields.io/badge/gitlab-1c1c1c?style=flat-square&logo=gitlab&logoColor=00E5A0)](https://gitlab.com/rezalabshq)
+[![Portfolio](https://img.shields.io/badge/hamidalami.dev-1c1c1c?style=flat-square&logo=firefoxbrowser&logoColor=00E5A0)](https://hamidalami.dev/)
+[![Instagram](https://img.shields.io/badge/instagram-1c1c1c?style=flat-square&logo=instagram&logoColor=00E5A0)](https://www.instagram.com/hamidcodes_/)
+[![Buy Me a Coffee](https://img.shields.io/badge/instbuymeacoffee-1c1c1c?style=flat-square&logo=buymeacoffee&logoColor=00E5A0)](https://buymeacoffee.com/hamidalami)
 
 </div>
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: INTRO / ABOUT ME                                       │ -->
-<!-- │ UPDATE: Edit the tagline, bio points, and current focus below.   │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- About me -->
 <div align="center">
 
 ```
@@ -97,12 +77,7 @@ role: Student & Self CEO
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: CURRENT FOCUS                                          │ -->
-<!-- │ UPDATE: Change these whenever your active projects shift.        │ -->
-<!-- │ Keep it to 2–3 items max to stay clean.                         │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Current focus -->
 <div align="center">
 
 ### 🔭 Currently Working On
@@ -121,12 +96,7 @@ role: Student & Self CEO
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: TECH STACK                                              │ -->
-<!-- │ UPDATE: Add/remove badges as you learn new tech.                 │ -->
-<!-- │ Organised into: Languages → Frameworks → Databases → Cloud       │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Tech stacks -->
 <div align="center">
 
 ## ⚡ Tech Stack
@@ -138,60 +108,51 @@ role: Student & Self CEO
 <br/>
 
 <!-- UPDATE: Add new language badges here -->
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,python,cpp,cs,swift,kotlin,html,css&perline=10)](https://skillicons.dev)
 
+</div>
 </details>
 
+<!-- UPDATE: Add new framework badges here -->
 <details open>
 <summary><b>🧩 Frameworks & Libraries</b></summary>
 <br/>
+<div align="center">
 
-<!-- UPDATE: Add new framework badges here -->
+![React](https://img.shields.io/badge/React-1c1c1c.svg?style=for-the-badge&logo=react&logoColor=00E5A0)
+![React Native](https://img.shields.io/badge/React_Native-1c1c1c.svg?style=for-the-badge&logo=react&logoColor=00E5A0)
+![Next.js](https://img.shields.io/badge/Next.js-1c1c1c.svg?style=for-the-badge&logo=next.js&logoColor=00E5A0)
+![Expo](https://img.shields.io/badge/Expo-1c1c1c.svg?style=for-the-badge&logo=expo&logoColor=00E5A0)
+![Node.js](https://img.shields.io/badge/Node.js-1c1c1c.svg?style=for-the-badge&logo=node.js&logoColor=00E5A0)
+![Flutter](https://img.shields.io/badge/Flutter-1c1c1c.svg?style=for-the-badge&logo=flutter&logoColor=00E5A0)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1c1c1c.svg?style=for-the-badge&logo=tailwindcss&logoColor=00E5A0)
+![SASS](https://img.shields.io/badge/SASS-1c1c1c.svg?style=for-the-badge&logo=sass&logoColor=00E5A0)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-1c1c1c.svg?style=for-the-badge&logo=chakraui&logoColor=00E5A0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1c1c.svg?style=for-the-badge&logo=bootstrap&logoColor=00E5A0)
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-%23319795.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+</div>
 </details>
 
+<!-- UPDATE: Add new database/cloud badges here -->
 <details open>
 <summary><b>🗄️ Databases & Cloud</b></summary>
 <br/>
+<div align="center">
 
-<!-- UPDATE: Add new database/cloud badges here -->
+![Supabase](https://img.shields.io/badge/Supabase-1c1c1c.svg?style=for-the-badge&logo=supabase&logoColor=00E5A0)
+![MongoDB](https://img.shields.io/badge/MongoDB-1c1c1c.svg?style=for-the-badge&logo=mongodb&logoColor=00E5A0)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1c1c1c.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=00E5A0)
+![AWS](https://img.shields.io/badge/AWS-1c1c1c.svg?style=for-the-badge&logo=amazonaws&logoColor=00E5A0)
+![Vercel](https://img.shields.io/badge/Vercel-1c1c1c.svg?style=for-the-badge&logo=vercel&logoColor=00E5A0)
 
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+</div>
 </details>
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: TOOLS & DESIGN                                          │ -->
-<!-- │ UPDATE: Add new tools as you adopt them.                         │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Tools and visual designs -->
 <div align="center">
 
 ## 🛠️ Tools & Design
@@ -199,74 +160,59 @@ role: Student & Self CEO
 </div>
 
 <details>
-<summary><b>🎨 Design & Creative</b></summary>
+<summary><b>🎨 Design and Visualisations</b></summary>
 <br/>
+<div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/InDesign-%23FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1c1c1c.svg?style=for-the-badge&logo=figma&logoColor=00E5A0)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-1c1c1c.svg?style=for-the-badge&logo=adobeillustrator&logoColor=00E5A0)
+![Neo4j](https://img.shields.io/badge/neo4j-1c1c1c.svg?style=for-the-badge&logo=neo4j&logoColor=00E5A0)
+![Diagrams](https://img.shields.io/badge/diagramsdotnet-1c1c1c.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=00E5A0)
 
+</div>
 </details>
 
 <details>
 <summary><b>🔧 Dev Tools & Workflow</b></summary>
 <br/>
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1c1c1c.svg?style=for-the-badge&logo=git&logoColor=00E5A0)
+![GitHub](https://img.shields.io/badge/GitHub-1c1c1c.svg?style=for-the-badge&logo=github&logoColor=00E5A0)
+![GitLab](https://img.shields.io/badge/GitLab-1c1c1c.svg?style=for-the-badge&logo=gitlab&logoColor=00E5A0)
+![Docker](https://img.shields.io/badge/Docker-1c1c1c.svg?style=for-the-badge&logo=docker&logoColor=00E5A0)
+![VS Code](https://img.shields.io/badge/VS_Code-1c1c1c.svg?style=for-the-badge&logo=visualstudiocode&logoColor=00E5A0)
+![Notion](https://img.shields.io/badge/Notion-1c1c1c.svg?style=for-the-badge&logo=notion&logoColor=00E5A0)
+![Obsidian](https://img.shields.io/badge/obsidian-1c1c1c.svg?style=for-the-badge&logo=obsidian&logoColor=00E5A0)
+![Trello](https://img.shields.io/badge/Trello-1c1c1c.svg?style=for-the-badge&logo=trello&logoColor=00E5A0)
 
+</div>
 </details>
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: DEV ENVIRONMENT                                         │ -->
-<!-- │ UPDATE: If needed change them accordingly                        │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Dev environment -->
 <div align="center">
 
 ## 💻 Dev Environment
 
-![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-1c1c1c.svg?style=for-the-badge&logo=apple&logoColor=00E5A0)
+![Linux](https://img.shields.io/badge/Linux-1c1c1c.svg?style=for-the-badge&logo=linux&logoColor=00E5A0)
+![VS Code](https://img.shields.io/badge/VS_Code-1c1c1c.svg?style=for-the-badge&logo=visualstudiocode&logoColor=00E5A0)
+![Figma](https://img.shields.io/badge/Figma-1c1c1c.svg?style=for-the-badge&logo=figma&logoColor=00E5A0)
 
 </div>
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: GITHUB STATS                                            │ -->
-<!-- │ UPDATE: Change theme via &theme= parameter.                      │ -->
-<!-- │ Themes: github_dark, radical, tokyonight, gruvbox, dracula, etc  │ -->
-<!-- │ Full list: https://github.com/anuraghazra/github-readme-stats    │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Github stats to change through &theme= parameter
+Themes: github_dark, radical, tokyonight, gruvbox, dracula, etc
+Full list are at: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <br/>
-<br/>
-
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: ACTIVITY GRAPH                                          │ -->
-<!-- │ UPDATE: Change theme or remove if you prefer minimal.            │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezalabshq&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
@@ -275,40 +221,18 @@ role: Student & Self CEO
 
 <br/>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: PROFILE VIEWS / VISITOR COUNTER                         │ -->
-<!-- │ UPDATE: This auto-increments. No changes needed.                 │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- PROFILE VIEWS / VISITOR COUNTER  -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rezalabshq&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<!-- ┌──────────────────────────────────────────────────────────────────┐ -->
-<!-- │ SECTION: FOOTER                                                  │ -->
-<!-- │ UPDATE: Change the quote or remove entirely.                     │ -->
-<!-- └──────────────────────────────────────────────────────────────────┘ -->
-
+<!-- Footer section -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%"/>
 
-<sub>Built with purpose. Designed with care.</sub>
+<sub>Built with `purpose`. Designed with `care`.</sub>
 
 </div>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║ QUICK REFERENCE — HOW TO UPDATE THIS README                      ║ -->
-<!-- ║                                                                  ║ -->
-<!-- ║  1. SEARCH for "UPDATE:" to find all editable sections           ║ -->
-<!-- ║  2. BADGES: https://shields.io or markdown-badges repo           ║ -->
-<!-- ║  3. STATS THEMES: github_dark, radical, tokyonight, dracula      ║ -->
-<!-- ║  4. BANNER: capsule-render or svg-banners for new headers        ║ -->
-<!-- ║  5. ICONS: https://simpleicons.org for logo= values              ║ -->
-<!-- ║  6. NEW SECTIONS: Copy a section block, paste, and edit          ║ -->
-<!-- ║  7. PROJECTS TABLE: Update the "Currently Working On" table      ║ -->
-<!-- ║     whenever you start/ship a new project                        ║ -->
-<!-- ║                                                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
