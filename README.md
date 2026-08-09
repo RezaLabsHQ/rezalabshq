@@ -19,7 +19,7 @@ Options at: https://github.com/AkashRajpurohit/svg-banners -->
 [![GitLab](https://img.shields.io/badge/gitlab-1c1c1c?style=flat-square&logo=gitlab&logoColor=00E5A0)](https://gitlab.com/rezalabshq)
 [![Portfolio](https://img.shields.io/badge/hamidalami.dev-1c1c1c?style=flat-square&logo=firefoxbrowser&logoColor=00E5A0)](https://hamidalami.dev/)
 [![Instagram](https://img.shields.io/badge/instagram-1c1c1c?style=flat-square&logo=instagram&logoColor=00E5A0)](https://www.instagram.com/hamidcodes_/)
-[![Buy Me a Coffee](https://img.shields.io/badge/instbuymeacoffee-1c1c1c?style=flat-square&logo=buymeacoffee&logoColor=00E5A0)](https://buymeacoffee.com/hamidalami)
+[![Buy Me a Coffee](https://img.shields.io/badge/buymeacoffee-1c1c1c?style=flat-square&logo=buymeacoffee&logoColor=00E5A0)](https://buymeacoffee.com/hamidalami)
 
 </div>
 
